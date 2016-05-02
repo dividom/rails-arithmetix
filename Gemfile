@@ -14,3 +14,5 @@ gemspec
 # gem 'byebug', group: [:development, :test]
 
 gem 'bigdecimal'
+
+gem 'rspec', group: :test
