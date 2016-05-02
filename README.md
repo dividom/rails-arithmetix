@@ -2,48 +2,35 @@
 
 By [Dividom](http://www.dividom.com/).
 
-Arithmetix is a financial computation library. It:
+Arithmetix is a financial computation library.
 
-* Is lorem ipsum dolor sit amet, consectetur adipisicing elit..
-* Is lorem ipsum dolor sit amet, consectetur adipisicing elit.
-* Is based on a modularity concept: use only what you really need.
 
 It's composed of 4 modules:
 
-* [LifeInsurance]: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-* [Credit]: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-* [Finance]: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-* [Transaction]: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+* [LifeInsurance]
+
+* [Credit]
+
+* [Finance]
+
+* [Transaction]
 
 
-
-## Information
+## Informations
 
 ### Bug reports
 
 If you discover a problem with Arithmetix, we would like to know about it.
 
+Contact: bastien@dividom.com
 
-### RDocs - TODO
+### Example applications
 
-You can view the Devise documentation in RDoc format here:
-
-url to rdoc
-
-
-### Example applications - TODO
-
-### Extensions
-
-Our community has created a number of extensions that add functionality above and beyond what is included with Devise. You can view a list of available extensions and add your own here:
-
-https://github.com/plataformatec/devise/wiki/Extensions
+Soon
 
 ### Contributing
 
 We hope that you will consider contributing to Arithmetix.
-
-You will usually want to write tests for your changes.  To run the test suite... TODO
 
 ## Getting started
 
@@ -83,10 +70,12 @@ Run the bundle command to install it.
 
 ### Contributors
 
+* Bastien Montois - bastien@dividom.com
+
 * Jérémie Flandrin - jeremie@dividom.com
 
-https://github.com/plataformatec/devise/graphs/contributors
+* Valentin Druon - valentin@dividom.com
 
 ## License
 
-MIT License. Copyright 201-2016 Dividom. http://www.dividom.com
+MIT License. Copyright 2014-2016 Dividom. http://www.dividom.com
